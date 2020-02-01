@@ -1,4 +1,4 @@
-breakfast,snack,lunch,snack,dinner
+breakfast,snack,lunch,snack2,dinner
 Mushroom Omlet Fresh 1cup-Strawberries 12oz-yogurt,protein bar protein shake, chef salad,1oz-nuts 2oz-Turkey jerky, 10oz-Salmon 1cup-Asparagus 1cup-wild rice 2cups-red pepper soup 1/2cup-protein shake
 Shake,protein bar protein shake,shrimp-stir fry 1oz-cashews, 3-oz string cheese 4oz-nuts, 10-oz Turkey 4Tbsp-Gravy 1cup-Green beans 2cups-butternut squash soup 1/2cup-protein shake
 4slices-Turkey Bacon Chicken scramble 8oz-fresh juice, protein bar protein shake, chicken salad salad greens 2cups-vegetable soup 1/2cup-protein shake, 4oz-nuts 12oz-yogurt, 10oz-Salmon 1cup-wild rice 1cup-Zucchini
